@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss init:*)",
+      "Bash(npm run:*)",
+      "Bash(node -e \"const lr = require\\('D:/GMSKL_Web/gmskl-web/node_modules/lucide-react/dist/cjs/lucide-react.js'\\); const keys = Object.keys\\(lr\\); console.log\\(keys.filter\\(k => /instagram|youtube|play|video|social/i.test\\(k\\)\\).join\\('\\\\n'\\)\\)\")",
+      "Bash(node -e \"const lr = require\\('D:/GMSKL_Web/gmskl-web/node_modules/lucide-react/dist/cjs/lucide-react.js'\\); const keys = Object.keys\\(lr\\); console.log\\(keys.filter\\(k => /^[A-Z]/.test\\(k\\) && !/^Lucide/.test\\(k\\) && !/Icon$/.test\\(k\\)\\).slice\\(0,80\\).join\\('\\\\n'\\)\\)\")",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:gms.church)",
+      "WebSearch",
+      "WebFetch(domain:web.archive.org)",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__read_page"
+    ]
+  }
+}

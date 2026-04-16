@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "giving": "Give",
+    "connectGroup": "CG",
+    "contact": "Contact",
+    "langToggle": "BI"
+  },
+  "announcement": {
+    "text": "Welcome to GMS Church Kuala Lumpur  ·  A Cell-based Church that is Apostolic and Prophetic  ·  Join us every Sunday"
+  },
+  "hero": {
+    "heading": "Welcome Home",
+    "subheading": "GMS Church Kuala Lumpur",
+    "ctaPrimary": "Join a Service",
+    "ctaSecondary": "Learn More"
+  },
+  "home": {
+    "learnMore": "Learn More",
+    "ourServices": "Our Services",
+    "viewSchedule": "View Schedule",
+    "seeMore": "See More",
+    "giveNow": "Give Now"
+  },
+  "about": {
+    "pageTitle": "About GMS KL",
+    "pageSuper": "Who We Are",
+    "tagline": "GMS Church Kuala Lumpur is a cell-based church that is apostolic and prophetic — carrying the same vision of GMS Indonesia to Kuala Lumpur.",
+    "whoWeAreLabel": "Who We Are",
+    "body": "GMS Church Kuala Lumpur is a branch of GMS Church Indonesia, carrying the same vision and spiritual DNA across borders. We are a cell-based church rooted in apostolic and prophetic foundations, called to make disciples and build lasting community in Malaysia."
+  },
+  "visionMission": {
+    "visionLabel": "Vision",
+    "vision": "A Cell-Based Church That Is Apostolic and Prophetic",
+    "missionLabel": "Mission",
+    "mission": "1,000 Strong Local Churches and 1,000,000 Disciples of Christ"
+  },
+  "services": {
+    "pageTitle": "Services",
+    "pageSuper": "Join Us Every Sunday",
+    "eaglekidz": {
+      "name": "Eaglekidz",
+      "tagline": "Raising up the next generation in faith and the love of God.",
+      "littleEagle": {
+        "name": "EK Little Eagle",
+        "desc": "Ages 1–3 with guardian",
+        "time": "Sunday 09:00 & 11:30 MYT"
+      },
+      "superTrooper": {
+        "name": "EK Super Trooper",
+        "desc": "Grade 1–3",
+        "time": "Sunday 09:00 & 11:30 MYT"
+      },
+      "voltage": {
+        "name": "EK Voltage",
+        "desc": "Grade 4–7",
+        "time": "Sunday 09:00 & 11:30 MYT"
+      }
+    },
+    "aog": {
+      "name": "Army of God (AOG)",
+      "tagline": "Equipping teens and youth to be soldiers of God's Kingdom.",
+      "teen": {
+        "name": "AOG Teen & Youth",
+        "time": "Sunday 14:00 MYT"
+      }
+    },
+    "family": {
+      "name": "Family Service",
+      "tagline": "Worship together as a family. Everyone is welcome.",
+      "service1": {
+        "name": "Service I",
+        "time": "Sunday 09:00 MYT"
+      },
+      "service2": {
+        "name": "Service II",
+        "time": "Sunday 11:30 MYT"
+      }
+    }
+  },
+  "pastor": {
+    "label": "Local Pastor",
+    "name": "Ps. Oscar Andi",
+    "bio": "Pastor Oscar Andi leads GMS Church Kuala Lumpur with a heart for people and a passion for building the Kingdom of God in Malaysia. Trained under the apostolic and prophetic culture of GMS Indonesia, he carries a deep conviction that every believer is called to be a disciple-maker. His ministry is marked by love for the local church, a hunger for the presence of God, and a commitment to see lives transformed."
+  },
+  "giving": {
+    "super": "Tithing & Offering",
+    "heading": "Support the Work",
+    "intro": "Tithing and offering are not obligations — they are acts of worship and trust. As we give, we participate in God's work and open our hands to receive His blessing.",
+    "bankTitle": "Bank Transfer",
+    "accountName": "Account Name",
+    "bank": "Bank",
+    "accountNumber": "Account No.",
+    "qrTitle": "QR Code",
+    "qrSoon": "Coming Soon",
+    "quote": "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver. — 2 Corinthians 9:7"
+  },
+  "connectGroup": {
+    "heading": "Connect Group",
+    "body": "Connect Group is the small group of GMS, your spiritual family in which you are discipled to become more like Christ. Members encourage one another through testimonies and sharing of the Word. In this home for everyone, we serve each other, pray for one another, and grow together in faith.",
+    "cta": "Join a Connect Group →"
+  },
+  "contact": {
+    "super": "Get In Touch",
+    "heading": "Find Us",
+    "addressLabel": "Address",
+    "churchName": "GMS Church Kuala Lumpur",
+    "address": "Amcorp Tower Level 7 Unit 709\nJl. Pesiaran Barat, Petaling Jaya\nSelangor, Kuala Lumpur",
+    "followUs": "Follow Us",
+    "mapTitle": "GMS Church KL location map",
+    "ctaHeading": "Get In Touch",
+    "ctaBody": "Have a question or want to know more? We'd love to hear from you.",
+    "ctaButton": "Send Us a Message"
+  },
+  "footer": {
+    "tagline": "A Cell-based Church that is Apostolic and Prophetic.",
+    "colServices": "Services",
+    "eaglekidz": "Eaglekidz",
+    "aog": "Army of God",
+    "family": "Family Service",
+    "colConnect": "Connect",
+    "connectGroup": "Connect Group",
+    "giving": "Give",
+    "contact": "Contact",
+    "colMedia": "Media",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "rights": "© 2025 GMS Church Kuala Lumpur. All Rights Reserved.",
+    "partOf": "Part of",
+    "gmsIndonesia": "GMS Church Indonesia"
+  }
+}

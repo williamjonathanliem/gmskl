@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "services": "Ibadah",
+    "giving": "Persembahan",
+    "connectGroup": "CG",
+    "contact": "Kontak",
+    "langToggle": "EN"
+  },
+  "announcement": {
+    "text": "Selamat Datang di GMS Church Kuala Lumpur  ·  Gereja Berbasis Sel yang Apostolik dan Profetik  ·  Bergabunglah setiap Minggu"
+  },
+  "hero": {
+    "heading": "Welcome Home",
+    "subheading": "GMS Church Kuala Lumpur",
+    "ctaPrimary": "Ikut Ibadah",
+    "ctaSecondary": "Pelajari Lebih"
+  },
+  "home": {
+    "learnMore": "Pelajari Lebih",
+    "ourServices": "Jadwal Ibadah",
+    "viewSchedule": "Lihat Jadwal",
+    "seeMore": "Lihat Lebih",
+    "giveNow": "Beri Sekarang"
+  },
+  "about": {
+    "pageTitle": "Tentang GMS KL",
+    "pageSuper": "Siapa Kami",
+    "tagline": "GMS Church Kuala Lumpur adalah gereja berbasis sel yang apostolik dan profetik — membawa visi yang sama dari GMS Indonesia ke Kuala Lumpur.",
+    "whoWeAreLabel": "Siapa Kami",
+    "body": "GMS Church Kuala Lumpur adalah cabang dari GMS Church Indonesia, membawa visi dan DNA rohani yang sama melewati batas negara. Kami adalah gereja berbasis sel yang berakar pada fondasi apostolik dan profetik, dipanggil untuk memuridkan dan membangun komunitas yang bertahan di Malaysia."
+  },
+  "visionMission": {
+    "visionLabel": "Visi",
+    "vision": "Gereja Berbasis Sel yang Apostolik dan Profetik",
+    "missionLabel": "Misi",
+    "mission": "1.000 Gereja Lokal yang Kuat dan 1.000.000 Murid Kristus"
+  },
+  "services": {
+    "pageTitle": "Ibadah",
+    "pageSuper": "Bergabunglah Setiap Minggu",
+    "eaglekidz": {
+      "name": "Eaglekidz",
+      "tagline": "Membesarkan generasi berikutnya dalam iman dan kasih Tuhan.",
+      "littleEagle": {
+        "name": "EK Little Eagle",
+        "desc": "Usia 1–3 tahun dengan pendamping",
+        "time": "Minggu 09:00 & 11:30 MYT"
+      },
+      "superTrooper": {
+        "name": "EK Super Trooper",
+        "desc": "Kelas 1–3",
+        "time": "Minggu 09:00 & 11:30 MYT"
+      },
+      "voltage": {
+        "name": "EK Voltage",
+        "desc": "Kelas 4–7",
+        "time": "Minggu 09:00 & 11:30 MYT"
+      }
+    },
+    "aog": {
+      "name": "Army of God (AOG)",
+      "tagline": "Memperlengkapi remaja dan pemuda untuk menjadi prajurit Kerajaan Allah.",
+      "teen": {
+        "name": "AOG Teen & Youth",
+        "time": "Minggu 14:00 MYT"
+      }
+    },
+    "family": {
+      "name": "Ibadah Keluarga",
+      "tagline": "Beribadah bersama sebagai keluarga. Semua disambut.",
+      "service1": {
+        "name": "Ibadah I",
+        "time": "Minggu 09:00 MYT"
+      },
+      "service2": {
+        "name": "Ibadah II",
+        "time": "Minggu 11:30 MYT"
+      }
+    }
+  },
+  "pastor": {
+    "label": "Gembala Lokal",
+    "name": "Ps. Oscar Andi",
+    "bio": "Ps. Oscar Andi memimpin GMS Church Kuala Lumpur dengan hati yang penuh kasih bagi jiwa-jiwa dan semangat untuk membangun Kerajaan Allah di Malaysia. Dilatih dalam budaya apostolik dan profetik GMS Indonesia, ia membawa keyakinan mendalam bahwa setiap orang percaya dipanggil untuk memuridkan. Pelayanannya ditandai dengan cinta terhadap gereja lokal, kelaparan akan hadirat Tuhan, dan komitmen untuk melihat kehidupan-kehidupan diubahkan."
+  },
+  "giving": {
+    "super": "Perpuluhan & Persembahan",
+    "heading": "Dukung Pekerjaan Tuhan",
+    "intro": "Perpuluhan dan persembahan bukan kewajiban — melainkan tindakan penyembahan dan kepercayaan kepada Tuhan. Saat kita memberi, kita berpartisipasi dalam pekerjaan Allah dan membuka tangan untuk menerima berkat-Nya.",
+    "bankTitle": "Transfer Bank",
+    "accountName": "Nama Rekening",
+    "bank": "Bank",
+    "accountNumber": "No. Rekening",
+    "qrTitle": "Kode QR",
+    "qrSoon": "Segera Hadir",
+    "quote": "Hendaklah masing-masing memberikan menurut kerelaan hatinya, jangan dengan sedih hati atau karena paksaan, sebab Allah mengasihi orang yang memberi dengan sukacita. — 2 Korintus 9:7"
+  },
+  "connectGroup": {
+    "heading": "Connect Group",
+    "body": "Connect Group adalah kelompok kecil GMS, keluarga rohani Anda di mana Anda dimuridkan untuk menjadi lebih serupa Kristus. Anggota saling mendorong melalui kesaksian dan berbagi Firman. Dalam rumah untuk semua orang ini, kita saling melayani, mendoakan satu sama lain, dan bertumbuh bersama dalam iman.",
+    "cta": "Bergabung ke Connect Group →"
+  },
+  "contact": {
+    "super": "Hubungi Kami",
+    "heading": "Temukan Kami",
+    "addressLabel": "Alamat",
+    "churchName": "GMS Church Kuala Lumpur",
+    "address": "Amcorp Tower Lantai 7 Unit 709\nJl. Pesiaran Barat, Petaling Jaya\nSelangor, Kuala Lumpur",
+    "followUs": "Ikuti Kami",
+    "mapTitle": "Peta lokasi GMS Church KL",
+    "ctaHeading": "Hubungi Kami",
+    "ctaBody": "Ada pertanyaan atau ingin tahu lebih banyak? Kami senang mendengar dari Anda.",
+    "ctaButton": "Kirim Pesan"
+  },
+  "footer": {
+    "tagline": "Gereja Berbasis Sel yang Apostolik dan Profetik.",
+    "colServices": "Ibadah",
+    "eaglekidz": "Eaglekidz",
+    "aog": "Army of God",
+    "family": "Ibadah Keluarga",
+    "colConnect": "Koneksi",
+    "connectGroup": "Connect Group",
+    "giving": "Persembahan",
+    "contact": "Kontak",
+    "colMedia": "Media",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "rights": "© 2025 GMS Church Kuala Lumpur. Semua Hak Dilindungi.",
+    "partOf": "Bagian dari",
+    "gmsIndonesia": "GMS Church Indonesia"
+  }
+}

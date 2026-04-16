@@ -1,0 +1,7 @@
+{
+  "name": "gmskl-web-root",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd gmskl-web && npm run dev"
+  }
+}
