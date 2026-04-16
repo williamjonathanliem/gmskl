@@ -102,6 +102,106 @@
     "body": "Connect Group is the small group of GMS, your spiritual family in which you are discipled to become more like Christ. Members encourage one another through testimonies and sharing of the Word. In this home for everyone, we serve each other, pray for one another, and grow together in faith.",
     "cta": "Join a Connect Group →"
   },
+  "cg": {
+    "heroSuper": "Connect Group GMS",
+    "heroTitle": "Connect Group",
+    "heroSub": "A Dynamic Home For Every Disciple",
+    "nav": {
+      "what": "What is CG?",
+      "why": "Why Join?",
+      "categories": "CG Categories",
+      "how": "How to Join"
+    },
+    "whatIs": {
+      "super": "What is Connect Group?",
+      "heading": "What is Connect Group (CG)?",
+      "body1": "Connect Group is a small community where you grow in faith, are discipled, and become more like Christ. Here, you are known, loved, and supported.",
+      "body2": "Each CG consists of 6–15 people who meet regularly to worship, study the Word, pray for one another, and share life together. Life is more meaningful when lived together — find your spiritual family at Connect Group GMS KL!",
+      "cta": "Join CG →"
+    },
+    "scripture": {
+      "verse": "\"And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another.\"",
+      "ref": "Hebrews 10:24–25"
+    },
+    "whyJoin": {
+      "super": "Reasons",
+      "heading": "Why Should We Be Planted in a CG?",
+      "quote": "Many people have experienced growing faith, transformed lives, and blessings through Connect Groups.",
+      "reasons": [
+        { "title": "God's Calling",      "desc": "To be discipled and to disciple others." },
+        { "title": "Faith Growth",       "desc": "Becoming more spiritually mature through intentional discipleship." },
+        { "title": "Community of Love",  "desc": "A community that loves one another and is always there for each other." },
+        { "title": "Spiritual Support",  "desc": "Mutual support and encouragement through prayer, the Word, and fellowship." },
+        { "title": "Christlike Service", "desc": "Becoming a blessing and Christ's answer for others." }
+      ]
+    },
+    "categories": {
+      "super": "Categories",
+      "heading": "CG Categories",
+      "joinCta": "Join CG →",
+      "ageGroupsLabel": "Age Groups",
+      "items": [
+        {
+          "name": "CG Eaglekidz",
+          "sub": "Children's Connect Group",
+          "desc": "Childhood is the most important time to lay the right foundation of faith. CG Eaglekidz introduces God's love to children in a fun and meaningful way.",
+          "groups": [
+            { "name": "Allstar",       "ages": "Ages 3–6 years" },
+            { "name": "Super Trooper", "ages": "Ages 7–9 years" },
+            { "name": "Voltage",       "ages": "Ages 10–12 years" }
+          ]
+        },
+        {
+          "name": "CG Army of God",
+          "sub": "Young Adults Connect Group",
+          "desc": "Young people are like arrows shot by a warrior. The Army of God CG provides the right and healthy environment for young people to grow strong in faith.",
+          "groups": [
+            { "name": "Teens", "ages": "Grades 8–12" },
+            { "name": "Youth", "ages": "University Students" }
+          ]
+        },
+        {
+          "name": "CG Adult",
+          "sub": "Adult Connect Group",
+          "desc": "The Adult CG provides a place for adults to keep growing in faith, build strong Christ-centered families, and support one another through every stage of life.",
+          "groups": [
+            { "name": "Young Adult", "ages": "Young professionals & unmarried" },
+            { "name": "Family",      "ages": "Married couples" },
+            { "name": "Senior",      "ages": "Ages 55 and above" }
+          ]
+        }
+      ]
+    },
+    "howToJoin": {
+      "super": "Steps",
+      "heading": "How to Join a CG?",
+      "cta": "Fill Out the Form →",
+      "steps": [
+        { "step": "01", "title": "Fill Out the Form",            "desc": "Complete your personal information and we will help you find the right CG for you." },
+        { "step": "02", "title": "Choose a CG Category",         "desc": "Select the category based on your age so that the CG becomes a community relevant to you." },
+        { "step": "03", "title": "The CG Team Will Contact You", "desc": "We are ready to welcome you into CG gatherings full of joy, warmth, and togetherness." },
+        { "step": "04", "title": "Join & Grow!",                 "desc": "Experience the blessing of community as you grow in faith alongside your CG family." }
+      ]
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions",
+      "items": [
+        { "q": "What do we do in a Connect Group?",           "a": "In a CG, we worship, study the Word, share testimonies, pray for one another, and build meaningful relationships." },
+        { "q": "Who can join a Connect Group?",               "a": "Anyone! Whether you are new to church or have been attending for years, there is a CG for you." },
+        { "q": "Are there any special requirements to join?", "a": "No special requirements — just a willing heart to grow and connect with others." },
+        { "q": "Is there a cost to join?",                    "a": "No, joining a Connect Group is completely free." },
+        { "q": "When and how often are CG meetings held?",    "a": "Most CGs meet weekly or bi-weekly. Your CG leader will share the exact schedule when you join." },
+        { "q": "Where are Connect Groups usually held?",      "a": "CGs typically meet in members' homes, creating a warm and personal environment." },
+        { "q": "Can I invite friends or family?",             "a": "Absolutely! In fact, we encourage you to bring people you care about." },
+        { "q": "Can I join more than one Connect Group?",     "a": "We recommend starting with one CG to build deep relationships before considering additional groups." }
+      ]
+    },
+    "finalCta": {
+      "heading": "Join a CG Today",
+      "body": "Let's be part of a spiritual family that supports one another!",
+      "button": "Join CG →"
+    }
+  },
   "contact": {
     "super": "Get In Touch",
     "heading": "Find Us",

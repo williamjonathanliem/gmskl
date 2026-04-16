@@ -102,6 +102,106 @@
     "body": "Connect Group adalah kelompok kecil GMS, keluarga rohani Anda di mana Anda dimuridkan untuk menjadi lebih serupa Kristus. Anggota saling mendorong melalui kesaksian dan berbagi Firman. Dalam rumah untuk semua orang ini, kita saling melayani, mendoakan satu sama lain, dan bertumbuh bersama dalam iman.",
     "cta": "Bergabung ke Connect Group →"
   },
+  "cg": {
+    "heroSuper": "Connect Group GMS",
+    "heroTitle": "Connect Group",
+    "heroSub": "Rumah yang Dinamis untuk Setiap Murid",
+    "nav": {
+      "what": "Apa itu CG?",
+      "why": "Mengapa Bergabung?",
+      "categories": "Kategori CG",
+      "how": "Cara Bergabung"
+    },
+    "whatIs": {
+      "super": "Apa itu Connect Group?",
+      "heading": "Apa itu Connect Group (CG)?",
+      "body1": "Connect Group adalah komunitas kecil di mana Anda bertumbuh dalam iman, dimuridkan, dan semakin serupa Kristus. Di sini, Anda dikenal, dikasihi, dan didukung.",
+      "body2": "Setiap CG terdiri dari 6–15 orang yang bertemu secara rutin untuk beribadah, belajar Firman, saling mendoakan, dan berbagi kehidupan bersama. Hidup lebih bermakna ketika dijalani bersama — temukan keluarga rohani Anda di Connect Group GMS KL!",
+      "cta": "Bergabung CG →"
+    },
+    "scripture": {
+      "verse": "\"Dan marilah kita saling memperhatikan supaya kita saling mendorong dalam kasih dan dalam pekerjaan baik. Janganlah kita menjauhkan diri dari pertemuan-pertemuan ibadah kita, seperti dibiasakan oleh beberapa orang, tetapi marilah kita saling menasihati.\"",
+      "ref": "Ibrani 10:24–25"
+    },
+    "whyJoin": {
+      "super": "Alasan",
+      "heading": "Mengapa Kita Harus Ditanam dalam CG?",
+      "quote": "Banyak orang telah mengalami pertumbuhan iman, kehidupan yang diubahkan, dan berkat melalui Connect Group.",
+      "reasons": [
+        { "title": "Panggilan Allah",         "desc": "Untuk dimuridkan dan memuridkan orang lain." },
+        { "title": "Pertumbuhan Iman",        "desc": "Menjadi lebih dewasa secara rohani melalui pemuridan yang intentional." },
+        { "title": "Komunitas Kasih",         "desc": "Komunitas yang saling mengasihi dan selalu ada satu sama lain." },
+        { "title": "Dukungan Rohani",         "desc": "Dukungan dan dorongan bersama melalui doa, Firman, dan persekutuan." },
+        { "title": "Pelayanan seperti Kristus","desc": "Menjadi berkat dan jawaban Kristus bagi orang lain." }
+      ]
+    },
+    "categories": {
+      "super": "Kategori",
+      "heading": "Kategori CG",
+      "joinCta": "Bergabung CG →",
+      "ageGroupsLabel": "Kelompok Usia",
+      "items": [
+        {
+          "name": "CG Eaglekidz",
+          "sub": "Connect Group Anak-Anak",
+          "desc": "Masa kecil adalah waktu terpenting untuk meletakkan fondasi iman yang benar. CG Eaglekidz memperkenalkan kasih Allah kepada anak-anak dengan cara yang menyenangkan dan bermakna.",
+          "groups": [
+            { "name": "Allstar",       "ages": "Usia 3–6 tahun" },
+            { "name": "Super Trooper", "ages": "Usia 7–9 tahun" },
+            { "name": "Voltage",       "ages": "Usia 10–12 tahun" }
+          ]
+        },
+        {
+          "name": "CG Army of God",
+          "sub": "Connect Group Pemuda",
+          "desc": "Anak muda ibarat anak panah yang ditembakkan oleh pahlawan. CG Army of God memberikan lingkungan yang tepat dan sehat bagi anak muda untuk bertumbuh kuat dalam iman.",
+          "groups": [
+            { "name": "Teens", "ages": "Kelas 8–12" },
+            { "name": "Youth", "ages": "Mahasiswa" }
+          ]
+        },
+        {
+          "name": "CG Adult",
+          "sub": "Connect Group Dewasa",
+          "desc": "CG Adult memberikan tempat bagi orang dewasa untuk terus bertumbuh dalam iman, membangun keluarga yang kuat berpusat pada Kristus, dan saling mendukung di setiap tahap kehidupan.",
+          "groups": [
+            { "name": "Young Adult", "ages": "Profesional muda & belum menikah" },
+            { "name": "Family",      "ages": "Pasangan suami istri" },
+            { "name": "Senior",      "ages": "Usia 55 tahun ke atas" }
+          ]
+        }
+      ]
+    },
+    "howToJoin": {
+      "super": "Langkah-Langkah",
+      "heading": "Bagaimana Cara Bergabung ke CG?",
+      "cta": "Isi Formulir →",
+      "steps": [
+        { "step": "01", "title": "Isi Formulir",                   "desc": "Lengkapi informasi pribadi Anda dan kami akan membantu Anda menemukan CG yang tepat." },
+        { "step": "02", "title": "Pilih Kategori CG",              "desc": "Pilih kategori berdasarkan usia Anda agar CG menjadi komunitas yang relevan bagi Anda." },
+        { "step": "03", "title": "Tim CG Akan Menghubungi Anda",   "desc": "Kami siap menyambut Anda ke pertemuan CG yang penuh sukacita, kehangatan, dan kebersamaan." },
+        { "step": "04", "title": "Bergabung & Bertumbuh!",         "desc": "Rasakan berkat komunitas saat Anda bertumbuh dalam iman bersama keluarga CG Anda." }
+      ]
+    },
+    "faq": {
+      "heading": "Pertanyaan yang Sering Diajukan",
+      "items": [
+        { "q": "Apa yang kita lakukan di Connect Group?",              "a": "Di CG, kita beribadah, belajar Firman, berbagi kesaksian, saling mendoakan, dan membangun hubungan yang bermakna." },
+        { "q": "Siapa yang bisa bergabung ke Connect Group?",          "a": "Siapa saja! Baik Anda baru di gereja atau sudah lama hadir, ada CG untuk Anda." },
+        { "q": "Apakah ada persyaratan khusus untuk bergabung?",       "a": "Tidak ada persyaratan khusus — hanya hati yang mau bertumbuh dan terhubung dengan orang lain." },
+        { "q": "Apakah ada biaya untuk bergabung?",                    "a": "Tidak, bergabung ke Connect Group sepenuhnya gratis." },
+        { "q": "Kapan dan seberapa sering pertemuan CG diadakan?",     "a": "Sebagian besar CG bertemu setiap minggu atau dua minggu sekali. Pemimpin CG Anda akan berbagi jadwal pastinya saat Anda bergabung." },
+        { "q": "Di mana Connect Group biasanya diadakan?",             "a": "CG biasanya bertemu di rumah-rumah anggota, menciptakan suasana yang hangat dan personal." },
+        { "q": "Bisakah saya mengundang teman atau keluarga?",         "a": "Tentu saja! Bahkan, kami mendorong Anda untuk membawa orang-orang yang Anda pedulikan." },
+        { "q": "Bisakah saya bergabung ke lebih dari satu Connect Group?", "a": "Kami menyarankan untuk memulai dengan satu CG untuk membangun hubungan yang mendalam sebelum mempertimbangkan kelompok tambahan." }
+      ]
+    },
+    "finalCta": {
+      "heading": "Bergabung ke CG Hari Ini",
+      "body": "Mari menjadi bagian dari keluarga rohani yang saling mendukung satu sama lain!",
+      "button": "Bergabung CG →"
+    }
+  },
   "contact": {
     "super": "Hubungi Kami",
     "heading": "Temukan Kami",
