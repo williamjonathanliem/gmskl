@@ -26,14 +26,14 @@ function FadeUp({ children, delay = 0, className = '' }) {
 /* ── 1. HERO ──────────────────────────────────────────── */
 function Hero() {
   return (
-    <section className="relative min-h-screen overflow-hidden" aria-label="Hero">
+    <section className="w-full h-[100svh] overflow-hidden" aria-label="Hero">
 
       {/* ── BACKGROUND LAYER ────────────────────────────────────
           Currently: static fallback image.
           When ready, replace the <img> below with:
 
           <video
-            className="absolute inset-0 w-full h-full object-cover"
+            className="w-full h-full object-cover block"
             autoPlay muted loop playsInline
             poster={heroBg}
           >
@@ -43,7 +43,7 @@ function Hero() {
       <img
         src={heroBg}
         alt=""
-        className="absolute inset-0 w-full h-full object-cover"
+        className="w-full h-full object-cover block"
         aria-hidden="true"
       />
 
@@ -58,7 +58,8 @@ function Hero() {
       <img
         src={welcomeHome}
         alt="Welcome Home"
-        className="absolute inset-0 m-auto w-[min(80%,720px)] h-auto object-contain pointer-events-none z-10"
+        className="absolute inset-0 m-auto w-[min(80%,720px)] h-auto object-contain pointer-events-none z-10 pointer-events-none"
+        style={{ top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}
       />
       */}
 
