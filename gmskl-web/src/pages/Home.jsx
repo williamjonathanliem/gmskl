@@ -3,8 +3,9 @@ import { useTranslation } from 'react-i18next'
 import { motion, useInView } from 'framer-motion'
 import { useRef } from 'react'
 import AnnouncementBar from '../components/AnnouncementBar'
-import heroBg from '../assets/hero.png'
-// import welcomeHome from '../assets/welcome_home.png' // ← uncomment when asset is ready
+import heroBg from '../assets/empty_hero.png'
+import welcomeHome from '../assets/welcome_home.png'
+import welcomeHomeMobile from '../assets/welcome_home_mobile.png'
 
 /* ── Shared animation wrapper ─────────────────────────── */
 function FadeUp({ children, delay = 0, className = '' }) {
@@ -26,14 +27,13 @@ function FadeUp({ children, delay = 0, className = '' }) {
 /* ── 1. HERO ──────────────────────────────────────────── */
 function Hero() {
   return (
-    <section className="w-full h-[100svh] overflow-hidden" aria-label="Hero">
+    <section className="relative w-full h-[100svh] overflow-hidden" aria-label="Hero">
 
       {/* ── BACKGROUND LAYER ────────────────────────────────────
-          Currently: static fallback image.
-          When ready, replace the <img> below with:
+          Currently: static PNG. When ready, swap the <img> for:
 
           <video
-            className="w-full h-full object-cover block"
+            className="absolute inset-0 w-full h-full object-cover"
             autoPlay muted loop playsInline
             poster={heroBg}
           >
@@ -43,25 +43,25 @@ function Hero() {
       <img
         src={heroBg}
         alt=""
-        className="w-full h-full object-cover block"
+        className="absolute inset-0 w-full h-full object-cover"
         aria-hidden="true"
       />
 
-      {/* ── WELCOME HOME OVERLAY ────────────────────────────────
-          Transparent PNG centered over the background/video.
-          Steps to activate:
-            1. Drop welcome_home.png into src/assets/
-            2. Uncomment the import at the top of this file
-            3. Uncomment the <img> below
-      ──────────────────────────────────────────────────────── */}
-      {/*
+      {/* ── WELCOME HOME OVERLAY ─────────────────────────────── */}
+      {/* Desktop */}
       <img
         src={welcomeHome}
         alt="Welcome Home"
-        className="absolute inset-0 m-auto w-[min(80%,720px)] h-auto object-contain pointer-events-none z-10 pointer-events-none"
-        style={{ top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}
+        className="hidden sm:block absolute w-full h-auto object-contain pointer-events-none z-10"
+        style={{ top: '58%', left: '50%', transform: 'translate(-50%, -50%)' }}
       />
-      */}
+      {/* Mobile */}
+      <img
+        src={welcomeHomeMobile}
+        alt="Welcome Home"
+        className="sm:hidden absolute w-[98%] h-auto object-contain pointer-events-none z-10"
+        style={{ top: '62%', left: '50%', transform: 'translate(-50%, -50%)' }}
+      />
 
     </section>
   )
